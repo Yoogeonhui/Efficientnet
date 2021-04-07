@@ -1,0 +1,5 @@
+.idea
+CIFAR10
+data
+wandb
+*.pth
